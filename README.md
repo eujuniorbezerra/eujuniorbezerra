@@ -1,4 +1,5 @@
-# Oi, me chamo Júnior e sou aficionado por tecnologia.
+# Oi, me chamo Júnior e sou um Desenvolvedor Front-End.
+Genuinamente aficionado por cada linha de código. Gosto de aprender novas tecnologias, além é claro, de implementar e melhorar meus conhecimentos e aptidões presentes.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
